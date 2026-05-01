@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+*.db
+*.log
+.vite/
+sentinel-backend/__pycache__/
+sentinel-honeypot/__pycache__/
+sentinel-attacker/__pycache__/
