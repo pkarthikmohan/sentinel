@@ -27,6 +27,8 @@ npm install
 npm start
 # Opens at http://localhost:3000
 ```
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/760a9a7b-3370-42f8-9caa-bdaa488488a7" />
+
 
 ### 3. Honeypot (on separate laptop)
 ```bash
@@ -40,6 +42,8 @@ python honeypot.py
 cd sentinel-attacker
 python3 attack.py [TARGET_IP]
 ```
+<img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/af31f210-0d46-482b-a39b-7915869fab5c" />
+
 
 ## Prerequisites
 - Python 3.10+
